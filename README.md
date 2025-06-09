@@ -1,6 +1,6 @@
 # 👩‍🎓 Kids Coding Curriculum
 
-While there are resource lists related to this topic, I have not found any repositories that organize those resources into a structured, progressive curriculum tailored for actual teaching. This will make a humble effort to try and fill that gap a bit, especially for parents, homework helpers and volunteers who want to help kids become confident creators with technology.
+While there are resource lists related to this topic, I have not found any repositories that organize those resources into a structured, progressive curriculum tailored for actual teaching. This project will make a humble attempt to fill that gap a bit - especially for parents, homework helpers and volunteers who want to support kids to become confident creators with technology.
 
 ## 📚 Age-Based Tracks
 
