@@ -1,22 +1,22 @@
-# 🤝 Contributing to Kids Coding Curriculum
+# Contributing to Kids Coding Curriculum
 
 Thanks for your interest in helping make coding accessible and fun for kids! Whether you're an educator, developer, parent, or enthusiast — your contributions are welcome.
 
 ## 🧠 What You Can Contribute
 
-- 📝 **New Lessons**  
+- **New Lessons**  
   Submit a new `week-xx-topic.md` lesson under the appropriate age group.
 
-- 🧪 **Tested Activities**  
+- **Tested Activities**  
   Share feedback or tweaks after trying lessons with kids.
 
-- 💡 **Teaching Tips**  
+- **Teaching Tips**  
   Add advice to `/resources/teaching-tips.md` for managing classes or adapting lessons.
 
-- 🌐 **Learning Platforms & Tools**  
+- **Learning Platforms & Tools**  
   Recommend tools, games, or platforms in `/resources/platforms.md`.
 
-- 📚 **Books or Reading Materials**  
+- **Books or Reading Materials**  
   Add kid-friendly books to `/resources/books.md`.
 
 ---
@@ -39,7 +39,7 @@ Thanks for your interest in helping make coding accessible and fun for kids! Whe
 
 ---
 
-## 🙏 Code of Conduct
+## 🤝 Code of Conduct
 
 Be kind. Be constructive. We're here to help kids grow — and that starts with supporting each other.
 
