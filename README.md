@@ -21,4 +21,4 @@ While there are resource lists related to this topic, I have not found any repos
 
 ## ✅ Contributing
 
-We welcome PRs with lesson ideas, tested classroom experiences, or platform/tool suggestions! See [CONTRIBUTING.md]
+We welcome PRs with lesson ideas, tested classroom experiences, or platform/tool suggestions! See [CONTRIBUTING.md](CONTRIBUTING.md)
